@@ -61,6 +61,8 @@
 > * 김태형 : 이메일 발송 기능 구현 (구글 API 사용), 이메일 발송기능 gmail 계정정보 properties 파일화
 
 > * 조현우 : 해설예약페이지 - 궁/날짜/회차를 선택하고 인원을 설정한 후 동의사항을 체크하면 해설예약을 할 수 있는 페이지 완성 [[Commit]](https://github.com/kimj0131/royal_project/commit/acbdc9238a40581477c47bca7f0aaa7e6bd643d7)
+
+> * 서 빈 : CoverPage 완성 [[Commit]](https://github.com/binibin99/royal_project/commit/46f39d3e5479148704f5dc3dabb8403cf37308b1)
 ***
 
 ## 발생한 문제
