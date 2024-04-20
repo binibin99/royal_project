@@ -38,6 +38,8 @@
 
 > * 김태형 : 카카오 지도 api 연계
 
+> * 서 빈 :  Royal_intro 쪽 view 5개 전체 수정 및 CSS 정리 [[Commit]](https://github.com/binibin99/royal_project/commit/780d49c654239e65e487cb57d2b0549c0c3c544e)
+
 > * 조현우, 김준형 : Event 테이블 데이터 추가 시 회차만큼 Event_round 테이블 데이터 추가하는 service [[Commit_1]](https://github.com/kimj0131/royal_project/commit/df13ec3e732f5fa6803c16d42b58d2afc91e42a9) [[Commit_2]](https://github.com/kimj0131/royal_project/commit/f856a8d61cbe07e3e5bfee5becbc1c6204e3cc7c)
 
 > * 김준형 : user, manage 로그인 확인 방법을 servlet filter에서 확인하도록 설정 [[Commit]](https://github.com/kimj0131/royal_project/commit/b9f155d03e6ee038dc20391c5d381a317744250e)
