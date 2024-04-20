@@ -47,6 +47,8 @@
 > * 김준형 : 관리자 페이지에 전체에 필요한 데이터(__알림수를 표시하기 위한 답변없는 Q&A리스트__)를 전달하기위해 spring intercepter 활용 [[Commit]](https://github.com/kimj0131/royal_project/commit/e2c1d534462ef27757f14a5147abf7fe4cbecea6)
 
 > * 장호동 : 공지사항 - 조건을 정해 검색할 수 있는 servie [[Commit]](https://github.com/kimj0131/royal_project/commit/8fe27658d6cb29ba94be1aeedb7b85d5b7de13e6)
+ 
+> * 서 빈 : DB의 데이터를 활용하여 궁 이름으로 카테고리를 나눠 카테고리 별 게시물이 나오게 연결 및 보내기 버튼으로 ID값을 DB에 값 넘겨주는 작업 완료(실패시 Alert 메세지 출력) [[Commit]](https://github.com/binibin99/royal_project/commit/7119041234259ee71610d1b9740bcd63e0380b68)
 
 > * 조현우 : 관리자Page - 디자인 템플릿을 받아와서 현재 프로젝트에 맞게 수정하고 예약, 행사, 자주묻는질문, 공지사항 페이지에서 데이터를 DB에 쉽게 추가, 수정, 삭제할 수 있도록 GUI 구축 [[Commit]](https://github.com/kimj0131/royal_project/commit/5e743f0d5beccebd4ed739dfcbc97d80c72fe651)
 
@@ -62,7 +64,7 @@
 
 > * 조현우 : 해설예약페이지 - 궁/날짜/회차를 선택하고 인원을 설정한 후 동의사항을 체크하면 해설예약을 할 수 있는 페이지 완성 [[Commit]](https://github.com/kimj0131/royal_project/commit/acbdc9238a40581477c47bca7f0aaa7e6bd643d7)
 
-> * 서 빈 : CoverPage 완성 [[Commit]](https://github.com/binibin99/royal_project/commit/46f39d3e5479148704f5dc3dabb8403cf37308b1)
+> * 서 빈 : CoverPage , faq 페이지 완성 [[Commit]](https://github.com/binibin99/royal_project/commit/46f39d3e5479148704f5dc3dabb8403cf37308b1)
 ***
 
 ## 발생한 문제
